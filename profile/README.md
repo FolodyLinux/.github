@@ -7,3 +7,11 @@ FolodyOS is a simple Arch-based Linux distro made by Folody Community.
 | ![img](https://i.imgur.com/Qmlu2Ho.png) | ![img](https://i.imgur.com/qikOIUq.png) | ![img](https://i.imgur.com/Cl3UgQD.png) |
 | Cozy |
 | ![img](https://i.imgur.com/CEKqi18.png) |
+
+# Packages
+- Window manager: Awesome WM
+- Browser: Firefox
+- File manager: ranger, Nemo, ...
+- Music player: mpd + ncmpcpp
+- Video player: mpv
+- Other stuffs: lmaofetch, ...
