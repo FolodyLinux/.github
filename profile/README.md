@@ -9,3 +9,5 @@ FolodyOS is a simple, semi-rolling Arch-based Linux distro made by Folody Commun
 - Terminal: GNOME Terminal, Alacritty
 - File manager: Nautilus
 - Video player: mpv
+- AUR Helper: yay
+  
