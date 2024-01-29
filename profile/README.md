@@ -1,3 +1,6 @@
+> **Warning**:
+> We no longer maintain this project.
+
 # FolodyLinux
 FolodyLinux is a simple, semi-rolling Arch-based Linux distro made by Folody Community (or Folody Team, idk).
 
